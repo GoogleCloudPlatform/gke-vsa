@@ -3,7 +3,7 @@ This directory contains the VSAs (Verification Summary Attestations) for GKE VM 
 structure will follow the pattern -
 
 ```
-<VM_IAMGE_PROJECT_ID>:<VM_IAMGE_PROJECT_NUMBER>/<VM_IMAGE_NAME>:<VM_IMAGE_ID>.intoto.jsonl
+<VM_IMAGE_PROJECT_ID>:<VM_IMAGE_PROJECT_NUMBER>/<VM_IMAGE_NAME>:<VM_IMAGE_ID>.intoto.jsonl
 ```
 
 For eg: VSA for -
