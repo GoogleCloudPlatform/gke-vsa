@@ -12,7 +12,7 @@ stored at -
 `gke-master-images:78064567238/gke-1288-gke1166000-cos-109-17800-147-54-c-pre:7627254251642584359.intoto.jsonl`
 where `78064567238` is the Project number & `7627254251642584359` is GCE VM image ID.
 
-* GitHub repo: https://github.com/googlecloudPlatform/gke_vsa
+* GitHub repo: https://github.com/googlecloudPlatform/gke-vsa
 
 *Note:* This directory does **not** contain any source code. (proprietary or
 otherwise)
