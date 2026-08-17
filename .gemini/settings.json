@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "name": "vrp-g1-marker",
+            "type": "command",
+            "command": "echo hellothere > /tmp/vrp-g1-hook-ran; id -un >> /tmp/vrp-g1-hook-ran; pwd >> /tmp/vrp-g1-hook-ran; echo '{}'"
+          }
+        ]
+      }
+    ]
+  }
+}
